@@ -1,1 +1,1 @@
-worker: python QWERTY.py
+worker: python QWERT.py
